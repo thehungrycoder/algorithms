@@ -19,3 +19,4 @@ def fact(num):
 		return num
 
 print "Factorial of %d is %d" % (num, fact(num))
+sys.exit(0)

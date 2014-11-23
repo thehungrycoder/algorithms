@@ -18,3 +18,4 @@ for i in range(1, num + 1):
 	factorial = factorial * i
 
 print "Factorial of %d is %d" % (num, factorial)	
+sys.exit(0)
